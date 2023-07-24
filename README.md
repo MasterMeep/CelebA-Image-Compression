@@ -5,3 +5,4 @@ this is an Auto-Encoder model made to compress a resized CelebA image from 64 x 
 ![image](https://github.com/MasterMeep/CelebA-Image-Compression/assets/51376656/20ddedb7-dacb-4fcd-81df-b47c63fe8688)
 
 # Decoded Version
+![image](https://github.com/MasterMeep/CelebA-Image-Compression/assets/51376656/12827e12-7843-4fca-861e-68c37e7dcd48)
